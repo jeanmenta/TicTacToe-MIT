@@ -6,9 +6,9 @@ A simple Tic Tac Toe game developed with React.
 
 ## Roadmap of Future Improvements
 
-Here are some ideas for potential features:
-
 * **AI Opponent**: A simple yet not very effective way to implement an AI opponent would be to use the Random Move Strategy. This means that the AI wouldn't aim to win or block the player from winning, it would just randomly fill spots on the board instead. 
 * **Game Mode Selector**: Allow player to select if he wants to play agains another human or AI and the necessary functions would be handled with hooks.
 
+## License information
+This project is licensed under the [MIT License](https://mit-license.org/).
 
